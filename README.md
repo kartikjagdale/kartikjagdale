@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning System Design
 - 📫 How to reach me... [LinkedIn](https://www.linkedin.com/in/kartikjagdale/)
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikjagdale&show_icons=true&theme=default)
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikjagdale&show_icons=true&theme=default&count_private=true)
 
 <!---
 kartikjagdale/kartikjagdale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
